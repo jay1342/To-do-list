@@ -6,3 +6,5 @@ An App built for the purpose of creating a to-do list, saving tasks, and checkin
 - Add new tasks
 - delete tasks
 - tasks persist after refresh
+
+live demo (https://jay1342.github.io/To-do-list/)
