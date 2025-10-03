@@ -8,3 +8,8 @@ An App built for the purpose of creating a to-do list, saving tasks, and checkin
 - tasks persist after refresh
 
 live demo (https://jay1342.github.io/To-do-list/)
+
+# Future improvements
+- A task categories
+- Add due dates/reminders
+- Dark mode toggle 
